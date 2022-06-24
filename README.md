@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARWA RAGAB</h1>
 <h3 align="center">junior-React-FrontendDeveloper</h3>
-
+<h2 align="center" color="blue">iti 9 month Diploma track sd</h2>
 - 📫 How to reach me **arwa.ragb22@gmail.com**
 
 <p align="left">
