@@ -33,12 +33,5 @@
     </a>
   </p>
 
-  <h3 align="left">Skills:</h3>
-  <p align="left">
-    - **Languages & Tools**: HTML, CSS, JavaScript, TypeScript, OOP using JavaScript
-    - **Frameworks**: React (JS, Hooks, Redux Toolkit), Next.js
-    - **UI/UX Design**: Solid understanding of user interface principles and design fundamentals
-    - **API Integration**: Extensive knowledge and hands-on experience in working with APIs
-    - **UI Frameworks**: Bootstrap, Material UI
-  </p>
+ 
 </p>
